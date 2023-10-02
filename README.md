@@ -39,3 +39,5 @@ python3 Project-Hidra -u <username> -r <request_file.txt>
  ```
 
 ### Example Video
+
+![example](https://github.com/mel4mi/Project-Hidra/blob/main/media/example2.gif)
