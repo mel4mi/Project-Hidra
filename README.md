@@ -3,10 +3,17 @@ If you assign the request request you capture with burp to the project-hydra too
 
 
 
-### Usage:
-1. Capture the Request
+### Example Usage:
+1. Capture the Request *
 2. Save as a .txt
-3. select username or username list
  ```
-  python3 Project-hidra.py -u admin -r requests.txt
+  python3 Project-hidra.py -r requests.txt -u admin 
  ```
+
+ ```
+  python3 Project-hidra.py -r requests.txt -u admin -p path/to/password_list
+ ```
+ ```
+  python3 Project-hidra.py -r requests.txt -u /path/to/username_list 
+ ```
+
