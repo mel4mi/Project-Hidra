@@ -1,6 +1,6 @@
 # Project-Hidra
 ![Foto](/media/Screenshot_1.png)
-If you assign the request request you capture with burp to the project-hydra tool, it will automatically give you the hydra brute force command.
+If you assign the request you capture with burp to the project-hydra tool, it will automatically give you the hydra brute force command.
 
 
 
