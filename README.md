@@ -4,6 +4,27 @@ If you assign the request request you capture with burp to the project-hydra too
 
 
 
+
+## Installation:
+
+```
+git clone https://github.com/mel4mi/Project-Hidra.git
+```
+
+```
+cd Project-Hidra
+```
+
+```
+pip3 install -r requirements.txt
+```
+
+```
+python3 Project-Hidra -u <username> -r <request_file.txt>
+```
+
+
+
 ### Example Usage:
 1. Capture the Request *
 2. Save as a .txt
@@ -17,4 +38,3 @@ If you assign the request request you capture with burp to the project-hydra too
  ```
   python3 Project-hidra.py -r requests.txt -u /path/to/username_list 
  ```
-
