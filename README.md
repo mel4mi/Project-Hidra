@@ -39,6 +39,3 @@ python3 Project-Hidra -u <username> -r <request_file.txt>
  ```
 
 ### Example Video
-
-
-[<img src="https://github.com/mel4mi/Project-Hidra/blob/main/media/Screenshot_1.png" width="50%">](https://github.com/mel4mi/Project-Hidra/blob/main/media/project-hidra.mp4 "Now in Android: 55")
