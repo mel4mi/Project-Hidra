@@ -3,7 +3,8 @@
 If you assign the request you capture with burp to the project-hydra tool, it will automatically give you the hydra brute force command.
 
 
-
+### Logic: 
+it checks the login request you specify and stores the required parameter. it gets the IP address and path information from the login request and sends a normal get request. after the get request is registered, it sends another login request with a wrong password attempt and aims to catch the wrong error message. after receiving the error message, it combines all the components and generates the command for Hydra.
 
 ### Installation:
 
