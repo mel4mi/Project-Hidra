@@ -42,3 +42,8 @@ python3 Project-Hidra -u <username> -r <request_file.txt>
 ### Example Video
 
 ![example](https://github.com/mel4mi/Project-Hidra/blob/main/media/example2.gif)
+
+
+### Buy Me Coffee
+
+<a href="https://www.buymeacoffee.com/mel4mi" target="_blank"><img align="center" height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  /></a>
